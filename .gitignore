@@ -1,0 +1,16 @@
+*.pem
+*.crt
+*.key
+*.zip
+
+DBBackup/
+ssl/
+
+backend/node_modules/
+backend/oldkeys/
+backend/dist/
+backend/src/config/serviceAccountKey.json
+
+frontend/node_modules
+frontend/oldkeys/
+frontend/build/

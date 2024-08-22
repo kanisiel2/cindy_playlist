@@ -1,0 +1,247 @@
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+
+> cindy@0.1.0 serve
+> serve -s -C --ssl-cert ./cert.pem --ssl-key ./key.pem build
+
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+ INFO  Accepting connections at https://localhost:33583
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+/home/ubuntu/cindy/frontend/logs:1
+2023-10-28T08:26:19:  INFO  Accepting connections at https://localhost:3000
+        ^^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1149:20)
+    at Module._compile (node:internal/modules/cjs/loader:1190:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+    at Module._load (node:internal/modules/cjs/loader:930:12)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.14.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1226:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1280:10)
+    at Module.load (node:internal/modules/cjs/loader:1089:32)
+
+ INFO  Gracefully shutting down. Please wait...

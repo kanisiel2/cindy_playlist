@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'Uiyeun';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105@1.1/Uiyeun.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LotteMartDream';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamMedium.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/corps/lottemart/LotteMartDream/LotteMartDreamMedium.woff') format('woff');
+}
+
+.noMargin {
+  margin: 0;
+}
+.noPadding {
+  padding: 0;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.example-custom-input {
+  background-color: #282c34;
+  color: white;
+  cursor: pointer;
+  width: 12em;
+  padding: 1em;
+  margin-bottom: 0.5em;
+}
+
+.example-custom-input2 {
+  background-color: #282c34;
+  color: white;
+  cursor: pointer;
+  width: 10em;
+  padding: 1em;
+  margin-bottom: 0.5em;
+}
+
+.offcanvas-size-xl {
+  --bs-offcanvas-width: min(95vw, 600px) !important;
+}
+.offcanvas-size-xxl {
+  --bs-offcanvas-width: min(95vw, 90vw) !important;
+}
+.offcanvas-size-md { /* add Responsivenes to default offcanvas */
+  --bs-offcanvas-width: min(95vw, 400px) !important;
+}
+.offcanvas-size-sm {
+  --bs-offcanvas-width: min(95vw, 250px) !important;
+}
+
+span {
+  vertical-align: middle;
+  }
+
+.playlistCell {
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+.bodyContainer {
+  background-color: 'WhiteSmoke'
+}
+.singer {  
+  color: dimgray;
+  align-content: flex-start;
+}
+.request {
+  color: DarkGreen;
+  align-content: flex-start;
+}
+.profileTD {
+  background-color: 'WhiteSmoke'
+}
+
+.remainTime {
+  font-family: "LotteMartDream";
+  font-size: 12px;
+}

@@ -1,0 +1,17 @@
+
+> cindy@0.1.0 start
+> set HTTPS=true&&set SSL_CRT_FILE=certs.pem&&set SSL_KEY_FILE=keys.pem&&react-scripts start
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view cindy in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.0.0.58:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully

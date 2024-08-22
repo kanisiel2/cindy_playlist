@@ -1,0 +1,34 @@
+{
+  "development": {
+    "username": "dba_rella",
+    "password": "DbPassw0rd!@#$",
+    "database": "cindy",
+    "host": "127.0.0.1",
+    "dialect": "mariadb",
+    "logging": false,
+    "timezone": "+09:00"
+  },
+  "test": {
+    "username": "dba_rella",
+    "password": "DbPassw0rd!@#$",
+    "database": "cindy",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false,
+    "timezone": "Asia/Seoul"
+  },
+  "production": {
+    "username": "dba_rella",
+    "password": "DbPassw0rd!@#$",
+    "database": "cindy",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false,
+    "timezone": "Asia/Seoul",
+    "dialectOptions": {
+      "options": {
+        "requestTimeout": 3000
+      }
+    }    
+  }
+}
